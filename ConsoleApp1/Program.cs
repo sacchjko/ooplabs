@@ -9,7 +9,6 @@ namespace lab1
 
             byte a = 256;
             Console.WriteLine(a);
-            }
         }
     }
 }

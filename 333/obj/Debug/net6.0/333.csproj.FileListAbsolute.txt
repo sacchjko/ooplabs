@@ -1,0 +1,15 @@
+D:\2k\olegu\333\obj\Debug\net6.0\333.csproj.AssemblyReference.cache
+D:\2k\olegu\333\obj\Debug\net6.0\333.GeneratedMSBuildEditorConfig.editorconfig
+D:\2k\olegu\333\obj\Debug\net6.0\333.AssemblyInfoInputs.cache
+D:\2k\olegu\333\obj\Debug\net6.0\333.AssemblyInfo.cs
+D:\2k\olegu\333\obj\Debug\net6.0\333.csproj.CoreCompileInputs.cache
+D:\2k\olegu\333\bin\Debug\net6.0\333.exe
+D:\2k\olegu\333\bin\Debug\net6.0\333.deps.json
+D:\2k\olegu\333\bin\Debug\net6.0\333.runtimeconfig.json
+D:\2k\olegu\333\bin\Debug\net6.0\333.dll
+D:\2k\olegu\333\bin\Debug\net6.0\333.pdb
+D:\2k\olegu\333\obj\Debug\net6.0\333.dll
+D:\2k\olegu\333\obj\Debug\net6.0\refint\333.dll
+D:\2k\olegu\333\obj\Debug\net6.0\333.pdb
+D:\2k\olegu\333\obj\Debug\net6.0\333.genruntimeconfig.cache
+D:\2k\olegu\333\obj\Debug\net6.0\ref\333.dll

@@ -78,7 +78,7 @@ class Program
         public IntVector(int size = 0) //s param po uml
         {
             this.size = size;
-                IntArray = new int[size];
+            IntArray = new int[size];
         }
 
         private IntVector()  //bez param
